@@ -1,2 +1,2 @@
-# Profit-Optimization-for-Water-Delivery-Company
+# Profit Optimization
 This project aims at maximizing profits for a water delivery company. Methods of analysis include the use of two key algorithms on the objective function and the constraints, namely Genetic Algorithm and fmincon. Both these algorithms were applied to maximize profits using the MATLAB software. The key weekly revenue streams include deliveries and in-person water pick up, while the key weekly expenditures are cost of making the deliveries (logistics, fuel), cost of operations (running the machinery, hydro costs, etc.), cost of labor. The profit maximization approach was based on minimizing the costs to maximize revenues.
